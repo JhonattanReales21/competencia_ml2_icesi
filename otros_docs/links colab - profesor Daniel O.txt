@@ -1,2 +1,5 @@
+EDA: https://colab.research.google.com/drive/1eijWJGQ6LN8kVpGuSXgqRZRSP4zt9-f8?usp=sharing
+Knn: https://colab.research.google.com/drive/1_2BZO0PLYjTsZLbLTLr57YoNHWAYECuq#scrollTo=4Jp51jj_uKar
+Arboles: https://colab.research.google.com/drive/1W2H1e3UIutiplmG5Sgmc5SvSC1VXMyfJ
 ensamble models: httpscolab.research.google.comdrive1wSuf2WkggvO4Xlepsv9JT5_lmPiYnyt_usp=sharing
 SVM: https://colab.research.google.com/drive/14NX4HiainxQVoQPLQbTimWVWVPSqdJpi?usp=sharing
